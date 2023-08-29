@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1692707239 "/Users/akapor/Documents/GitHub/research/TestBlindAdmissions-Discussion/testOptionalDiscussion.tex" "testOptionalDiscussion.pdf" "testOptionalDiscussion" 1692707241
-  "/Users/akapor/Documents/GitHub/research/TestBlindAdmissions-Discussion/testOptionalDiscussion.tex" 1692707237 17978 44aee342548919b6b5a31626a88b636b ""
+["pdflatex"] 1693332743 "/Users/akapor/Documents/GitHub/research/TestBlindAdmissions-Discussion/testOptionalDiscussion.tex" "testOptionalDiscussion.pdf" "testOptionalDiscussion" 1693332745
+  "/Users/akapor/Documents/GitHub/research/TestBlindAdmissions-Discussion/testOptionalDiscussion.tex" 1693332741 18551 52f10421b6d16431ea6641711236fd72 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecsi1095.tfm" 1136768653 3584 1a0353d13d3e702865b76e3b1c321b5b ""
@@ -263,11 +263,11 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1660582838 2826442 efaa9fb280cba0ba80207845c13560e2 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "testOptionalDiscussion.aux" 1692707241 2183 9176000559999df1800f31351f3a644b "pdflatex"
+  "testOptionalDiscussion.aux" 1693332745 2313 3691dd21873d92f3e7f3876c1264f464 "pdflatex"
   "testOptionalDiscussion.mw" 0 -1 0 "pdflatex"
-  "testOptionalDiscussion.nav" 1692707241 1045 2d754e9d4171474b65d4f6bc98a1eb87 "pdflatex"
+  "testOptionalDiscussion.nav" 1693332745 1139 e7f68081a4289fdae73f0767d7b65909 "pdflatex"
   "testOptionalDiscussion.out" 0 -1 0 "pdflatex"
-  "testOptionalDiscussion.tex" 1692707237 17978 44aee342548919b6b5a31626a88b636b ""
+  "testOptionalDiscussion.tex" 1693332741 18551 52f10421b6d16431ea6641711236fd72 ""
   "testoptional-fig1.png" 1691769956 96705 4ba55268d2271adcaf1e6d609d43d318 ""
   (generated)
   "testOptionalDiscussion.aux"
