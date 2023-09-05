@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.15)  29 AUG 2023 14:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.15)  2 SEP 2023 18:59
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1009,15 +1009,15 @@ Non-PDF special ignored!
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./testOptionalDiscussion.mw)
 \openout5 = `testOptionalDiscussion.mw'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 226.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 225.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 226.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 225.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 226.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 225.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
@@ -1178,62 +1178,90 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 <testoptional-fig1.png, id=141, 684.5575pt x 418.56375pt>
 File: testoptional-fig1.png Graphic file (type png)
 <use testoptional-fig1.png>
-Package pdftex.def Info: testoptional-fig1.png  used on input line 271.
-(pdftex.def)             Requested size: 231.14879pt x 141.33261pt.
+Package pdftex.def Info: testoptional-fig1.png  used on input line 273.
+(pdftex.def)             Requested size: 250.4063pt x 153.10341pt.
+
+Overfull \vbox (6.82614pt too high) detected at line 273
+ []
+
 \openout5 = `testOptionalDiscussion.mw'.
 
- [24
+[24
 
  <./testoptional-fig1.png>] (./testOptionalDiscussion.mw)
 \openout5 = `testOptionalDiscussion.mw'.
 
 File: testoptional-fig1.png Graphic file (type png)
 <use testoptional-fig1.png>
-Package pdftex.def Info: testoptional-fig1.png  used on input line 271.
-(pdftex.def)             Requested size: 231.14879pt x 141.33261pt.
+Package pdftex.def Info: testoptional-fig1.png  used on input line 273.
+(pdftex.def)             Requested size: 250.4063pt x 153.10341pt.
+
+Overfull \vbox (6.82614pt too high) detected at line 273
+ []
+
 \openout5 = `testOptionalDiscussion.mw'.
 
- [25
+[25
 
 ] (./testOptionalDiscussion.mw)
 \openout5 = `testOptionalDiscussion.mw'.
 
 File: testoptional-fig1.png Graphic file (type png)
 <use testoptional-fig1.png>
-Package pdftex.def Info: testoptional-fig1.png  used on input line 271.
-(pdftex.def)             Requested size: 231.14879pt x 141.33261pt.
+Package pdftex.def Info: testoptional-fig1.png  used on input line 273.
+(pdftex.def)             Requested size: 250.4063pt x 153.10341pt.
+
+Overfull \vbox (6.82614pt too high) detected at line 273
+ []
+
 \openout5 = `testOptionalDiscussion.mw'.
 
- [26
+[26
 
 ] (./testOptionalDiscussion.mw)
 \openout5 = `testOptionalDiscussion.mw'.
 
 File: testoptional-fig1.png Graphic file (type png)
 <use testoptional-fig1.png>
-Package pdftex.def Info: testoptional-fig1.png  used on input line 271.
-(pdftex.def)             Requested size: 231.14879pt x 141.33261pt.
+Package pdftex.def Info: testoptional-fig1.png  used on input line 273.
+(pdftex.def)             Requested size: 250.4063pt x 153.10341pt.
+
+Overfull \vbox (6.82614pt too high) detected at line 273
+ []
+
 \openout5 = `testOptionalDiscussion.mw'.
 
- [27
+[27
 
 ] (./testOptionalDiscussion.mw)
 \openout5 = `testOptionalDiscussion.mw'.
 
 File: testoptional-fig1.png Graphic file (type png)
 <use testoptional-fig1.png>
-Package pdftex.def Info: testoptional-fig1.png  used on input line 271.
-(pdftex.def)             Requested size: 231.14879pt x 141.33261pt.
+Package pdftex.def Info: testoptional-fig1.png  used on input line 273.
+(pdftex.def)             Requested size: 250.4063pt x 153.10341pt.
+
+Overfull \vbox (6.82614pt too high) detected at line 273
+ []
+
 \openout5 = `testOptionalDiscussion.mw'.
 
- [28
+[28
 
 ] (./testOptionalDiscussion.mw)
 \openout5 = `testOptionalDiscussion.mw'.
 
+File: testoptional-fig1.png Graphic file (type png)
+<use testoptional-fig1.png>
+Package pdftex.def Info: testoptional-fig1.png  used on input line 273.
+(pdftex.def)             Requested size: 250.4063pt x 153.10341pt.
+
+Overfull \vbox (6.82614pt too high) detected at line 273
+ []
+
 \openout5 = `testOptionalDiscussion.mw'.
 
- [29
+[29
 
 ] (./testOptionalDiscussion.mw)
 \openout5 = `testOptionalDiscussion.mw'.
@@ -1399,6 +1427,62 @@ Package pdftex.def Info: testoptional-fig1.png  used on input line 271.
 ] (./testOptionalDiscussion.mw)
 \openout5 = `testOptionalDiscussion.mw'.
 
+\openout5 = `testOptionalDiscussion.mw'.
+
+ [53
+
+] (./testOptionalDiscussion.mw)
+\openout5 = `testOptionalDiscussion.mw'.
+
+\openout5 = `testOptionalDiscussion.mw'.
+
+ [54
+
+] (./testOptionalDiscussion.mw)
+\openout5 = `testOptionalDiscussion.mw'.
+
+\openout5 = `testOptionalDiscussion.mw'.
+
+ [55
+
+] (./testOptionalDiscussion.mw)
+\openout5 = `testOptionalDiscussion.mw'.
+
+\openout5 = `testOptionalDiscussion.mw'.
+
+ [56
+
+] (./testOptionalDiscussion.mw)
+\openout5 = `testOptionalDiscussion.mw'.
+
+\openout5 = `testOptionalDiscussion.mw'.
+
+ [57
+
+] (./testOptionalDiscussion.mw)
+\openout5 = `testOptionalDiscussion.mw'.
+
+\openout5 = `testOptionalDiscussion.mw'.
+
+ [58
+
+] (./testOptionalDiscussion.mw)
+\openout5 = `testOptionalDiscussion.mw'.
+
+\openout5 = `testOptionalDiscussion.mw'.
+
+ [59
+
+] (./testOptionalDiscussion.mw)
+\openout5 = `testOptionalDiscussion.mw'.
+
+\openout5 = `testOptionalDiscussion.mw'.
+
+ [60
+
+] (./testOptionalDiscussion.mw)
+\openout5 = `testOptionalDiscussion.mw'.
+
 \tf@nav=\write21
 \openout5 = `testOptionalDiscussion.nav'.
 
@@ -1409,14 +1493,6 @@ Package pdftex.def Info: testoptional-fig1.png  used on input line 271.
 \openout5 = `testOptionalDiscussion.snm'.
 
  (./testOptionalDiscussion.aux
-\openout5 = `testOptionalDiscussion.mw'.
-
-\openout5 = `testOptionalDiscussion.mw'.
-
-\openout5 = `testOptionalDiscussion.mw'.
-
-\openout5 = `testOptionalDiscussion.mw'.
-
 \openout5 = `testOptionalDiscussion.mw'.
 
 \openout5 = `testOptionalDiscussion.mw'.
@@ -1522,18 +1598,18 @@ Package rerunfilecheck Info: File `testOptionalDiscussion.out' has not changed.
 
  ) 
 Here is how much of TeX's memory you used:
- 27921 strings out of 478268
- 540089 string characters out of 5846347
+ 27932 strings out of 478268
+ 539956 string characters out of 5846347
  774105 words of memory out of 5000000
- 45278 multiletter control sequences out of 15000+600000
+ 45257 multiletter control sequences out of 15000+600000
  487262 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,11n,122p,518b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,11n,122p,518b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb>
-Output written on testOptionalDiscussion.pdf (52 pages, 252279 bytes).
+Output written on testOptionalDiscussion.pdf (60 pages, 263991 bytes).
 PDF statistics:
- 371 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
- 105 named destinations out of 1000 (max. 500000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 321 compressed objects within 4 object streams
+ 121 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

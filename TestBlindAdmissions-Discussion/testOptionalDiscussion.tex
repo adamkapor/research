@@ -198,9 +198,14 @@ again covered={\opaqueness<1->{100}}}
     \begin{itemize}
         \item Important topic and RQ: \pause
             \begin{itemize}
-                \item Many colleges (not just elite) adopted test-optional admissions during COVID. \pause
+                \item Many colleges adopted test-optional admissions during COVID. \pause
                 \item But now that testing is cheap again, these policies have persisted. \pause
                 \item Why would colleges want to commit not to learn something they care about? \pause
+            \end{itemize}
+            \item This paper's argument does not rely on: \pause
+            \begin{itemize}
+                \item Changes in applicant pool (held fixed in this paper) \pause
+                \item Endogenous test-prep effort (e.g. muddled information; multitasking; ...) \pause
             \end{itemize}
             % \item This paper addresses two RQs: \pause
             % \begin{enumerate}
@@ -209,19 +214,13 @@ again covered={\opaqueness<1->{100}}}
             % \end{enumerate} 
             % Something about DiD lit on "SAT-Optional" at liberal arts colleges
             % Borghesan paper
-        \item Main result: \emph{``disagreement costs'' can motivate colleges not to learn scores.} \pause
+        \item Main result: convex \emph{``disagreement costs'' can motivate colleges to drop exams.} \pause
         \begin{enumerate}
             \item A college can replicate its ``test-optional'' assignment w/ test-required \pause %, if it can commit to an admissions policy, even w/ general prefs, ``test prep effort,'' $\ldots$ \pause
             \item But in doing so it may reject people society wants it to admit, or vice versa. \pause
             \item Obscuring scores prevents society from finding the cases of extreme disagreement. \pause
-            \item Application: society bans AA $\implies$ colleges may drop SAT, harming society. \pause
+            \item Application: society bans AA $\implies$ colleges may drop SAT, harming society.
         \end{enumerate}
-
-        \item Argument does not rely on: \pause
-        \begin{itemize}
-            \item Changes in applicant pool (held fixed in this paper) \pause
-            \item Endogenous test-prep effort (e.g. muddled information; multitasking; ...)
-        \end{itemize}
     \end{itemize}
 \end{frame}
 
@@ -250,9 +249,8 @@ again covered={\opaqueness<1->{100}}}
     \begin{itemize}
         \item Colleges seem to cultivate uncertainty (ambiguity?) about admissions prefs... \pause
         \item Perhaps declaring test-optional provides info about \emph{what college wants}? \pause
-        \item Empirically, doesn't look like this has worked out so far. 
+        \item Empirically, doesn't look like this has worked out so far, except perhaps in cases involving \emph{legal} commitment + transparency (e.g. TTP).
     \end{itemize}
-
     % My suggestions: \begin{enumerate}
     %     \item Cite DiD lit, but argue not that related (counterfactual is some colleges dropping SATs). \pause
     %     \item Literature (including Borghesan paper) says dropping SATs won't improve selection of applicants; helps make case for this paper's argument.
@@ -263,11 +261,15 @@ again covered={\opaqueness<1->{100}}}
 \begin{frame}{You don't persuade people by telling them they're wrong.}\framesubtitle{You persuade them by gerrymandering their beliefs.}
 \begin{itemize}
     \pause 
-    \item So how do theorists make an agent want to commit to not generate some info, when everyone is a good Bayesian? \pause
+    \item So how do theorists make an agent want to commit to not generate some info? \pause
     \item  Make agent's payoff concave in information. \pause
     \item This paper does so via a convex ``disagreement cost'', evaluated at expectation \pause
+    \begin{itemize}
+        \item``sender'' chooses action, but pays cost if ``receiver'' disagrees \pause
+    \end{itemize}
+
 \end{itemize}
-\begin{center} \includegraphics[width=0.6\textwidth]{testoptional-fig1.png} \end{center}
+\begin{center} \includegraphics[width=0.65\textwidth]{testoptional-fig1.png} \end{center}
 \end{frame}
 
 % \begin{frame}
@@ -287,79 +289,68 @@ again covered={\opaqueness<1->{100}}}
     
 % \end{frame}
 
-\begin{frame}{Where do these costs come from?}
+\begin{frame}{Where do disagreement costs come from?}
     \pause
     \begin{itemize}
-        \item Two key features of disagreement costs: \pause
+        \item Two features of disagreement costs: \pause
         \begin{enumerate}
-            \item Zero if college, society agree on (binary) decision, otherwise $\propto$ |disagreement|. \pause
+            \item zero if college, society agree on (binary) decision, otherwise $\propto$ |disagreement|. \pause
             \item Evaluated at expected value | available info. \pause
         \end{enumerate}
         \item $\implies$ Not simply college's preferences over entering class $\neq$ society's.  \pause
-        \item ``social pressure'' term perfectly flat in region of agreement: stylized. \pause
-        \item But general shape may be very reasonable. \pause
+        \item ``social pressure'' term constant in region of agreement: \pause
+        \item[] \ \ Stylized, but general shape may be very reasonable. \pause
         \begin{itemize}
             \item College gets little credit at margin for ``good'' decision; lots of blame for ``bad'' \pause
             \item $\implies$ Revealing ``extra'' info, beyond that needed for decision, runs risk of blame. \pause
             \item ``Ego utility'' (Koszegi 2006): to get a candidate not to learn own score, make payoff concave in E(score).  \pause
-            \item Reference dependence w/ normative reference could look like this.  \pause
+            %\item Reference dependence w/ normative reference could look like this.  \pause
             \item Journalism and litigation worse for colleges if there are obvious cases.
         \end{itemize}
     \end{itemize}
 \end{frame}
 
-\begin{frame}{Designing info}
-    \begin{itemize}
-        \item Classically, sender wants to make receiver take sender's desired action as often as possible. \pause
+\begin{frame}{How can colleges design society's information?}
+    \begin{enumerate}
+       \item Managing society's beliefs is easier if scores \emph{are not produced at all.} \pause
         \begin{itemize}
-            \item This paper: informed party chooses action, but pays cost if ``receiver'' (society) disagrees given its info \pause
+            \item should interpret college in this paper as coalition of all colleges (I think). \pause %one college closing its eyes is useless. 
+            \item Aside: paper mentions 25 states (but not CA, NY) require SAT/ACT for high school graduation.  Couldn't society see these? \pause
+            \item One exception (see end of this paper): SAT-blind may make some discriminination cases harder. \pause
         \end{itemize}
 
-        \item Managing society's beliefs is easier if scores \emph{are not produced at all.} \pause
+    \item Who controls the exam? \pause
         \begin{itemize}
-            \item should interpret college in this paper as coalition of all colleges. \pause %one college closing its eyes is useless. 
-            \item Aside: paper mentions 25 states (but not CA, NY) require SAT/ACT for high school graduation.  Couldn't society see these? \pause
-            \item One exception (see end of this paper): SAT-blind may make some discriminination cases harder.
-        \end{itemize}  
-    \end{itemize}
+            \item If run by a single elite college, why not make scores ``1'' or ``0''?  (Compare AP exams). \pause
+            \item U.S. has competing private exams, unlike other countries w/ national college entrance exams.
+        \end{itemize}
+    \end{enumerate}
 \end{frame}
 
-\begin{frame}{Oligopoly}
+\begin{frame}{Does competition among colleges matter?}
 \begin{itemize}
-    \item Empirical DiD lit is about individual colleges dropping exams; this paper is about all of them.
-    \item Are SAT-optional decisions by colleges strategic complements?
+    \item Empirical DiD lit is about individual small colleges dropping exams; this paper is about a monopolist. \pause
+    \item Are SAT-optional decisions by colleges strategic complements? \pause
     \begin{itemize}
-        \item If apps costly, not using SAT scores can induce more apps.
-        \item Value of taking SAT falls if fewer colleges use it.
-        \item If test-prep costly, then a college, $j$, going test-optional can reduce returns to effort for people who like $j$.
+        \item If apps costly, not using SAT scores can induce more apps. \pause
+        \item Value of taking SAT falls if fewer colleges use it. \pause
+        \item If test-prep costly, then a college, $j$, going test-optional can reduce returns to effort for people who like $j$. \pause
     \end{itemize}
-    \item Is world in 2023 very different from 2018? Maybe we want model with multiple eqba? \pause
-\end{itemize}
-\end{frame}
-
-\begin{frame}{Oligopoly 2}
-\begin{itemize}
-    \item Who controls the College Board? \pause
-    \begin{itemize}
-        \item If run by a single elite college, why not make scores ``1'' or ``0''?  (Compare AP exams). \pause
-        \item U.S. has competing private exam firms, unlike other countries w/ college entrance exams.
-    \end{itemize}
+    \item Is world in 2023 very different from 2018? Maybe we want model with multiple eqba?
 \end{itemize}
 \end{frame}
 
 \begin{frame}{Conclusions}
     \begin{itemize}
-        \item This paper: colleges are designing the information that society uses to judge them, at some cost.
+        \item This paper: colleges are designing the information that society uses to judge them, at some cost. \pause
         \begin{itemize}
             \item My view: worth pursuing this channel!
             \item Empirical lit: SAT-optional hasn't increased diversity or ability of entering class so far.
-            \item This suggests that we should look for alternative explanations.  
-            \item Seems very plausible that colleges are trying to hide info used to make decisions.
-            \item This paper shows how to get this story to work in equilibrium without foolng people.
-            \begin{itemize}
-                \item Disagreement costs: RF for threat of bad press, litigation, legislation, ...
-            \end{itemize}
-            \item Maybe we (empiricists) should think more about info design, e.g. how would we know if this is going on?
+            \item This suggests that we should look for alternative explanations.  \pause
+            \item Seems very plausible that colleges are trying to hide info used to make decisions. \pause
+            \item This paper shows how to get this story to work in equilibrium. \pause 
+            \item ``Disagreement costs'': RF for journalism, litigation, pressure from legislators, ...? \pause 
+            \item Maybe we (empiricists) should think more about info design, e.g. how would we know if this is going on? \pause
         \end{itemize}
         \item A lot of interesting stories involve multiple firms:
         \begin{itemize}
